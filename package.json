@@ -1,0 +1,31 @@
+{
+  "name": "tea-projects-tracker-tool",
+  "version": "1.0.0",
+  "description": "Track and manage Tea projects with a comprehensive tracker tool, ensuring project progress and milestones are met.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/upriverforyou/tea-projects-tracker-tool"
+  },
+  "author": "upriverforyou",
+  "license": "MIT",
+  "dependencies": {
+    "tea-projects-tracker-tool": "1.0.0",
+    "tea-projects-fetcher-tool": "1.0.0",
+    "enzyme": "1.0.0",
+    "validator": "1.0.0",
+    "axios": "1.0.0",
+    "mocha": "1.0.0",
+    "mongoose": "1.0.0",
+    "sequelize": "1.0.0",
+    "nodemon": "1.0.0",
+    "socket.io": "1.0.0",
+    "supertest": "1.0.0",
+    "debug": "1.0.0",
+    "dotenv": "1.0.0",
+    "eslint": "1.0.0"
+  }
+}
